@@ -1,1 +1,1 @@
-# Capstone
+# Mindcare Companion
